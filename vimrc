@@ -1,6 +1,7 @@
 set encoding=utf-8
 syntax on
 set autoindent
+set incsearch
 set hlsearch
 
 " Editing modes
