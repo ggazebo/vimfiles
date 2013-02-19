@@ -33,6 +33,10 @@ endif
 " Extended block matching
 runtime macros/matchit.vim
 
+" Searching
+set ignorecase
+set smartcase
+
 " Navigation
 set scrolloff=2
 set sidescrolloff=8
