@@ -6,6 +6,7 @@ set hlsearch
 
 " Editing modes
 set backspace=indent,eol,start
+set smarttab
 
 " Plugins and modeline
 filetype plugin on
