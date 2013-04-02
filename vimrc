@@ -17,7 +17,7 @@ set modeline
 set number
 set ruler
 set showtabline=2   " Always show tabline
-set shortmess=aoI   " Less verbose short messages
+set shortmess=aoIt  " Less verbose short messages
 set guioptions+=r   " RHS scroll bar always on
 
 " More useful completion
