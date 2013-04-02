@@ -17,7 +17,7 @@ set modeline
 set number
 set ruler
 set showtabline=2   " Always show tabline
-set shortmess=aoI
+set shortmess=aoI   " Less verbose short messages
 set guioptions+=r   " RHS scroll bar always on
 
 " More useful completion
@@ -42,9 +42,6 @@ set smartcase
 set scrolloff=2
 set sidescrolloff=8
 set history=100
-
-" Less verbose short messages
-set shortmess=I
 
 " Mouse scrolling in screen
 if has("mouse") && &term == "screen"
